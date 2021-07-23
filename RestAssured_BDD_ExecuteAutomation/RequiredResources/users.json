@@ -1,0 +1,7 @@
+{"users":
+	[
+		{"id":1,"email":"apurva@gmail.com","password":"apurva123"}
+		,{"id":2,"email":"ruchi@gmail.com","password":"ruchi123"}
+		,{"id":3,"email":"kriyansh@gmail.com","password":"kriyansh123"}
+	]
+}

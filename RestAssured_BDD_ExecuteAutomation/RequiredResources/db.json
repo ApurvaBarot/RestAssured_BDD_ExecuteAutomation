@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "Apurva"
+    },
+    {
+      "id": 2,
+      "title": "Selenium",
+      "author": "Sandeep"
+    },
+    {
+      "id": 3,
+      "title": "Python",
+      "author": "Pawan"
+    },
+    {
+      "id": 4
+    },
+    {
+      "author": "Apurva Barot",
+      "title": "Rest Assured API",
+      "id": "Lz9rM03"
+    },
+    {
+      "author": "Kriyansh Barot",
+      "id": "5",
+      "title": "Automation Testing"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Excellent Course",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Poojary",
+    "postId": "3"
+  },
+  "location": [
+    {
+      "id": 1,
+      "city": "Mumbai",
+      "country": "India",
+      "address": [
+        {
+          "street": "S V Road",
+          "flat_no": "1603",
+          "pincode": 400092,
+          "type": "primary"
+        },
+        {
+          "street": "123 Street",
+          "flat_no": "11111",
+          "pincode": 222222,
+          "type": "secondary"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "city": "Delhi",
+      "country": "India",
+      "address": [
+        {
+          "street": "Mahatma Gandhi Road",
+          "flat_no": "100",
+          "pincode": 1001,
+          "type": "primary"
+        },
+        {
+          "street": "J S Road",
+          "flat_no": "200",
+          "pincode": 2002,
+          "type": "secondary"
+        }
+      ]
+    }
+  ]
+}
